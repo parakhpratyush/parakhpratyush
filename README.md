@@ -37,8 +37,6 @@
 ---
 
 ## 📫 Connect
-[
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
-
-](https://linkedin.com/in/parakh-pratyush-b7a881390)
+https://linkedin.com/in/parakh-pratyush-b7a881390
