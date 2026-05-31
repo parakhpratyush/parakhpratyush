@@ -1,3 +1,5 @@
+![Enterprise Banner](./header-engine.svg)
+
 # Hey, I'm Parakh Pratyush 👋
 
 > CSE Student | Building AI Projects | Python • DSA • ML
