@@ -24,7 +24,11 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
  
+
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
@@ -39,4 +43,8 @@
 ## 📫 Connect
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
-https://linkedin.com/in/parakh-pratyush-b7a881390
+ https://linkedin.com/in/parakh-pratyush-b7a881390
+
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
+ https://leetcode.com/parakhpratyush
