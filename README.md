@@ -1,12 +1,12 @@
 ![Enterprise Banner](./header-engine.svg)
 
-# Hey, I'm Parakh Pratyush 👋
+# **Hey, I'm Parakh Pratyush 👋**
 
 > CSE Student | Building AI Projects | Python • DSA • ML
 
 ---
 
-## 🚀 About Me
+## **🚀 About Me**
 - 💻 Building AI-powered projects from scratch
 - 🧠 Solving DSA problems daily on LeetCode
 - 🌱 Currently learning Python, Flask, AI Engineering
@@ -14,39 +14,41 @@
 
 ---
 
-## 📁 My Repositories
+## **📁 My Repositories**
 | Repository | Description | Status |
-|-----------|-------------|--------|
+|:-----------|:-------------|:--------|
 | [Python-DSA](https://github.com/parakhpratyush/Python-DSA) | Daily DSA practice — ongoing journey | 🔄 Active |
 
----
-
-## 🛠️ Tech Stack
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
- 
-
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-
- 
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-
+## **📁 Project's Repositories**
+| Repository | Description | Status |
+|:-----------|:-------------|:--------|
+| [Bank Account System](https://github.com/parakhpratyush/01_bank_account_system) | OOP-based financial system in Python. Implements classes, inheritance, polymorphism, and abstraction. Full account management with deposit, withdrawal, and transfer operations. | ✅ Done |
+| [File Storage Engine](https://github.com/parakhpratyush/02_oop_file_handling) | Polymorphic storage system using abstract base classes. Implements AppendLogger and OverwriteSnapshot engines with multiple formatting strategies. Demonstrates real-world file I/O architecture. | ✅ Done |
+| [Contact Book CLI](https://github.com/parakhpratyush/03_contact_book_cli) | Full CRUD command-line application with JSON persistence. Contacts survive program restart. O(1) hashmap-based search. Clean menu-driven interface with error handling. | ✅ Done |
 
 ---
 
-## 📫 Connect
+## **🛠️ Tech Stack**
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
- https://linkedin.com/in/parakh-pratyush-b7a881390
+<img src="https://cdn-icons-png.flaticon.com/512/1387/1387537.png" width="60" alt="Python Logo"> 
 
 
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
- https://leetcode.com/parakhpratyush
+
+<img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" width="60" alt="SQL Logo">
+
+
+
+<img src="https://img.icons8.com/?size=512&id=40670&format=png" width="60" alt="C Programming Logo">
+
+
+
+<img src="https://img.icons8.com/?size=512w&id=LoL4bFzqmAa0&format=png" width="60" alt="git Logo">
+
+---
+
+## *📫 **Click The Logo To Connect***
+
+ <a href = "https://www.linkedin.com/in/parakhpratyush"><img src="https://img.icons8.com/?size=512w&id=xuvGCOXi8Wyg&format=png" width="60" alt="Linkedin Logo"></a>
+
+
+ <a href = "https://leetcode.com/parakhpratyush"><img src="https://img.icons8.com/?size=160&id=9L16NypUzu38&format=png" width="60" alt="Leetcode Logo"></a>
